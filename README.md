@@ -8,15 +8,11 @@ https://cloud.google.com/vertex-ai/docs/start/cloud-environment
 
 https://cloud.google.com/vertex-ai/docs/start/install-sdk
 
-Note: the instructions on the install-sdk link have the following steps:
-
 Installation of the Vertex AI SDK for Python includes the following steps:
 
 1. Create an isolated Python environment
 2. Install the Vertex AI SDK package
 3. Initialize the Vertex AI SDK (This is done within the python script itself)
-
-However, step 3 is done from within the python script itself.
 
 # Script execution instructions
 
